@@ -5,15 +5,14 @@
 
 <table width="100%" border="0" cellspacing="14" cellpadding="0">
   <tr>
-    <td width="58%" align="center" valign="middle" style="border:1px solid #d0d7de; border-radius:22px; padding:20px;">
+    <td width="58%" align="center" valign="middle" style="border:1px solid #d0d7de; padding:20px;">
       <img src="./assets/profile.gif" width="100%" style="min-width:320px; border-radius:16px;" alt="Animated profile banner" />
     </td>
-    <td width="42%" align="center" valign="middle" style="border:1px solid #d0d7de; border-radius:22px; padding:20px;">
-      <p style="margin:0 0 6px; font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size:15px; font-weight:700; letter-spacing:5px; color:#57606a;">
-        <span style="display:inline-block; width:8px; height:8px; border-radius:50%; background-color:#0969da; margin-right:10px;"></span>CONNECT
-      </p>
+    <td width="42%" align="center" valign="middle" style="border:1px solid #d0d7de; padding:20px;">
+      <h3 style="margin:0 0 6px; letter-spacing:5px; color:#57606a;">CONNECT</h3>
       <hr width="100%" style="border:0; border-top:1px solid #d8dee6; margin:0 0 16px;" />
-      <span style="display:inline-block; margin-bottom:16px; padding:3px 14px; border:1px solid #a8c3ea; border-radius:999px; font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size:10px; font-weight:700; letter-spacing:2px; color:#0969da;">OPEN CHANNELS</span>
+      <span style="font-size:10px; font-weight:700; letter-spacing:2px; color:#0969da;">OPEN CHANNELS</span>
+      <br />
       <br />
       <a href="https://github.com/R1d3rZzz">
         <picture>
@@ -39,8 +38,8 @@
       </a>
       <br />
       <br />
-      <hr width="56%" style="border:0; border-top:1px solid #d8dee6; margin:8px auto 12px;" />
-      <p style="margin:0; font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size:11px; font-weight:700; letter-spacing:2px; color:#57606a;"><span style="color:#2da44e; font-size:12px;">●</span>&nbsp;STATUS&nbsp;·&nbsp;ONLINE</p>
+      <br />
+      <br />
     </td>
   </tr>
 </table>

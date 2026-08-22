@@ -16,7 +16,9 @@
       </a>
       <br />
       <br />
-      <img src="./assets/blog-disabled.svg" width="220" height="44" alt="Blog 施工中" />
+      <a href="https://github.com/R1d3rZzz/404">
+        <img src="./assets/blog-disabled.svg" width="220" height="44" alt="Blog 施工中" />
+      </a>
     </td>
   </tr>
 </table>

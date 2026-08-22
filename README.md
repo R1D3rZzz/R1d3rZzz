@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there 👋</h1>
-  <p><sub>Welcome to my GitHub profile</sub></p>
 </div>
 
 <table width="100%" border="0" cellspacing="14" cellpadding="0">
@@ -43,9 +42,3 @@
     </td>
   </tr>
 </table>
-
-<br />
-
-<div align="center">
-  <sub><span style="color:#8b949e;">—</span>&nbsp;Building quietly. Learning continuously.&nbsp;<span style="color:#8b949e;">—</span></sub>
-</div>
